@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.seiinvestasi_kupang.twa",
+        "sha256_cert_fingerprints": ["A5:0B:FA:C7:43:00:02:D3:8C:DC:D0:25:D3:90:EF:AE:75:DC:A9:25:48:33:C7:FE:7A:C5:5E:75:EE:FF:EF:51"]
+      }
+    }]
